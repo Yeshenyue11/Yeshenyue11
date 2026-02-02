@@ -1,18 +1,41 @@
+<!-- ============================================ -->
+<!-- 🎨 Yeshenyue11 - GitHub Profile README          -->
+<!-- Created with love by Claude Code                -->
+<!-- ============================================ -->
+
 <div align="center">
 
-# Hi there, I'm Yeshenyue11! 👋
+<!-- Animated Banner -->
+<a href="https://github.com/Yeshenyue11">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Yeshenyue11&fontSize=70&fontColor=fff&animation=twinkle" alt="Banner" />
+</a>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=2000&color=38BDF8&center=true&vCenter=true&width=940&lines=Full+Stack+Developer;%E5%88%9B%E6%84%8F+%E7%BC%96%E7%A8%8B+%E7%88%B1%E5%A5%BD%E8%80%85;Open+Source+Enthusiast;Building+Amazing+Things)](https://git.io/typing-svg)
-
+<!-- Profile Views Trophy & Stats -->
+<div style="display: flex; align-items: center; justify-content: center; gap: 15px; margin-top: -30px; margin-bottom: 20px;">
+  <img src="https://profile-counter.glitch.me/Yeshenyue11/count.svg" alt="Visitor Count" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Yeshenyue11&row=1&column=4&margin-w=8&no-bg=true&theme=dark_dim" alt="Trophies" />
 </div>
 
----
+<!-- Animated Typing Text -->
+<div>
+  <h1>
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=35&duration=4000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=Hi+%F0%9F%91%8B+I'm+Yeshenyue11;Full+Stack+%7C+Creative+Coder;Open+Source+Enthusiast+%F0%9F%9A%80;Building+the+Future+%E2%9C%A8" alt="Typing SVG" />
+    </a>
+  </h1>
+</div>
 
-<div align="center">
-
-### ✨ Profile Views
-
-![Visitor Count](https://profile-counter.glitch.me/Yeshenyue11/count.svg)
+<!-- Quick Links -->
+<p>
+  <a href="https://yeshenyue11.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Website-38BDF8?style=for-the-badge&logo=world&logoColor=white" alt="Website" />
+  </a>
+  <a href="https://github.com/Yeshenyue11?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" alt="Status" />
+  <img src="https://img.shields.io/badge/Location-Earth-blue?style=for-the-badge" alt="Location" />
+</p>
 
 </div>
 
@@ -20,62 +43,87 @@
 
 ## 🌟 About Me
 
+<div align="center">
+
+<table>
+  <tr>
+    <td width="50%">
+
 ```javascript
 const yeshenyue11 = {
-    pronouns: "he" | "him",
-    code: ["JavaScript", "TypeScript", "Python", "Go", "Rust"],
-    askMeAbout: ["web dev", "tech", "app dev", "architecture"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "Vue", "Next.js", "Nuxt.js"],
-            css: ["TailwindCSS", "Sass", "Styled-components"]
-        },
-        backEnd: {
-            js: ["Node", "Express", "NestJS"],
-            python: ["Django", "FastAPI", "Flask"],
-            go: ["Gin", "Echo"],
-            rust: ["Actix", "Rocket"]
-        },
-        devOps: ["Docker", "Kubernetes", "CI/CD", "AWS", "Nginx"],
-        databases: ["PostgreSQL", "MySQL", "MongoDB", "Redis"],
-        tools: ["Git", "VS Code", "Linux", "Figma"]
-    },
-    currentFocus: "Building scalable web applications",
-    funFact: "I debug with console.log and coffee"
+    💼 title: "Full Stack Developer",
+    🎯 focus: "Building elegant solutions",
+    🌐 languages: ["JavaScript", "Python", "Go", "Rust"],
+    🎨 frontend: ["React", "Vue", "Next.js", "TailwindCSS"],
+    ⚙️ backend: ["Node.js", "FastAPI", "Django", "Go"],
+    ☁️ cloud: ["AWS", "Docker", "Kubernetes"],
+    💡 learning: "Something new every day",
+    🎮 funFact: "I debug with coffee ☕"
 };
 ```
 
----
+    </td>
+    <td width="50%" align="center">
 
-## 📊 GitHub Stats
+<!-- Tech Stack Icons -->
+<div>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,go,rust,react,vue,nextjs,nodejs" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=django,fastapi,docker,kubernetes,aws,git,linux" alt="More Skills" />
+</div>
 
-<div align="center">
-
-![Yeshenyue11's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yeshenyue11&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=38BDF8&title_color=38BDF8&text_color=C9D1D9&count_private=true&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yeshenyue11&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&hide=Jupyter%20Notebook)
-
-![GitHub Streak](https://github-streak-stats.herokuapp.com/?user=Yeshenyue11&theme=tokyonight&hide_border=true&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=FFB86C&currStreakLabel=38BDF8)
+    </td>
+  </tr>
+</table>
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 📊 GitHub Analytics
 
 <div align="center">
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Yeshenyue11&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4)
+<!-- Stats Card with Gradient Border -->
+<table>
+  <tr>
+    <td>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yeshenyue11&show_icons=true&hide_border=true&hide_title=false&title_color=38BDF8&text_color=c9d1d9&icon_color=38BDF8&bg_color=0d1117&include_all_commits=true&count_private=true&line_height=30)
+
+    </td>
+    <td>
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yeshenyue11&layout=donut-vertical&hide_border=true&hide_title=false&title_color=38BDF8&text_color=c9d1d9&icon_color=38BDF8&bg_color=0d1117&langs_count=8&count_private=true)
+
+    </td>
+  </tr>
+</table>
+
+<!-- Streak Stats & Activity Graph -->
+<table>
+  <tr>
+    <td>
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Yeshenyue11&stroke=38BDF8&background=0D1117&ring=38BDF8&fire=FFB86C&currStreakLabel=38BDF8&currStreakNum=38BDF8&sideNums=38BDF8&sideLabels=38BDF8&dates=c9d1d9&hide_border=true)
+
+    </td>
+    <td>
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Yeshenyue11&theme=react-dark&bg_color=0d1117&color=38BDF8&line=38BDF8&point=FFB86C&hide_border=true&custom_title=Contribution%20History&radius=16)
+
+    </td>
+  </tr>
+</table>
 
 </div>
 
 ---
 
-## 🐍 Contribution Graph
+## 🏆 Achievements
 
 <div align="center">
 
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Yeshenyue11&theme=tokyo-night&bg_color=0D1117&color=38BDF8&line=38BDF8&point=FFB86C&area=true&hide_border=true)
+<img src="https://github-profile-trophy.vercel.app/?username=Yeshenyue11&theme=dark_dim&no-frame=true&no-bg=true&margin-w=4" alt="Achievements" />
 
 </div>
 
@@ -85,34 +133,28 @@ const yeshenyue11 = {
 
 <div align="center">
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+### Frontend Development
+<div>
+  <img src="https://skillicons.dev/icons?i=react,vue,nextjs,nuxtjs,angular,svelte" alt="Frontend Frameworks" />
+  <img src="https://skillicons.dev/icons?i=ts,javascript,html,css,tailwind,sass,webpack" alt="Frontend Tools" />
+</div>
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+### Backend Development
+<div>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,django,fastapi,flask" alt="Backend" />
+  <img src="https://skillicons.dev/icons?i=go,rust,java,spring,php,laravel" alt="More Backend" />
+</div>
 
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+### DevOps & Cloud
+<div>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,jenkins,gitlab" alt="DevOps" />
+  <img src="https://skillicons.dev/icons?i=linux,bash,github,git,nginx,terraform" alt="Infrastructure" />
+</div>
 
 ### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<div>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,redis,graphql" alt="Databases" />
+</div>
 
 </div>
 
@@ -122,74 +164,104 @@ const yeshenyue11 = {
 
 <div align="center">
 
-<a href="https://github.com/Yeshenyue11/gemini">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yeshenyue11&repo=gemini&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9" />
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; width: 100%;">
+
+<!-- Project 1: gemini -->
+<a href="https://github.com/Yeshenyue11/gemini" style="text-decoration: none; color: inherit;">
+  <div style="background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); border: 1px solid #38BDF8; border-radius: 16px; padding: 20px; transition: transform 0.3s, box-shadow 0.3s;">
+    <h3 style="color: #38BDF8; margin: 0 0 10px 0;">🌟 OpenAI-Gemini Proxy</h3>
+    <p style="color: #c9d1d9; font-size: 14px; margin: 0 0 15px 0;">Free OpenAI-compatible API powered by Google Gemini</p>
+    <div style="display: flex; gap: 8px; flex-wrap: wrap;">
+      <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare" />
+    </div>
+  </div>
 </a>
 
-<a href="https://github.com/Yeshenyue11/subscription-manager">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yeshenyue11&repo=subscription-manager&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9" />
+<!-- Project 2: subscription-manager -->
+<a href="https://github.com/Yeshenyue11/subscription-manager" style="text-decoration: none; color: inherit;">
+  <div style="background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); border: 1px solid #38BDF8; border-radius: 16px; padding: 20px; transition: transform 0.3s, box-shadow 0.3s;">
+    <h3 style="color: #38BDF8; margin: 0 0 10px 0;">📊 SubsTracker</h3>
+    <p style="color: #c9d1d9; font-size: 14px; margin: 0 0 15px 0;">Subscription management system with smart reminders</p>
+    <div style="display: flex; gap: 8px; flex-wrap: wrap;">
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/Cloudflare-Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Workers" />
+      <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" />
+    </div>
+  </div>
 </a>
 
-<a href="https://github.com/Yeshenyue11/hello">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yeshenyue11&repo=hello&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9" />
+<!-- Project 3: hello -->
+<a href="https://github.com/Yeshenyue11/hello" style="text-decoration: none; color: inherit;">
+  <div style="background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); border: 1px solid #38BDF8; border-radius: 16px; padding: 20px; transition: transform 0.3s, box-shadow 0.3s;">
+    <h3 style="color: #38BDF8; margin: 0 0 10px 0;">👋 Hello World</h3>
+    <p style="color: #c9d1d9; font-size: 14px; margin: 0 0 15px 0;">Classic starter project for new coding journeys</p>
+    <div style="display: flex; gap: 8px; flex-wrap: wrap;">
+      <img src="https://img.shields.io/badge/MIT-License-blue?style=flat-square" alt="MIT" />
+    </div>
+  </div>
 </a>
+
+</div>
+
+<style>
+  a:hover div { transform: translateY(-5px); box-shadow: 0 10px 30px rgba(56, 189, 248, 0.3); }
+</style>
 
 </div>
 
 ---
 
-## 📈 Activity Graph
+## 📈 Activity Heatmap
 
 <div align="center">
 
-![Yeshenyue11's Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Yeshenyue11&theme=tokyo-night&bg_color=0D1117&color=38BDF8&line=38BDF8&point=FFB86C&area=true&hide_border=true&custom_title=Contribution%20History)
+![GitHub Contribution Graph](https://ghchart.rshah.org/38BDF8/Yeshenyue11)
 
 </div>
 
 ---
 
-## 🎯 Current Focus
+## 🌍 Connect With Me
 
 <div align="center">
 
-![Yeshenyue11's WakaReadme Stats](https://github-readme-stats-tawny.vercel.app/api/wakatime?username=Yeshenyue11&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&layout=compact)
-
-<!-- 如果没有 WakaTime，可以使用下面的替代内容 -->
 <table>
-    <tr>
-        <td>
-            <a href="https://github.com/Yeshenyue11?tab=stars">
-                <img align="center" src="https://github-readme-stats.vercel.app/api?username=Yeshenyue11&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=38BDF8&title_color=38BDF8&text_color=C9D1D9&count_private=true&include_all_commits=true&hide=prs,issues,contribs" alt="GitHub Stats" />
-            </a>
-        </td>
-    </tr>
+  <tr>
+    <td align="center" width="100">
+
+<a href="mailto:yeshenyue11@github.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+    </td>
+    <td align="center" width="100">
+
+<a href="https://github.com/Yeshenyue11">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+    </td>
+    <td align="center" width="100">
+
+<a href="https://yeshenyue11.github.io">
+  <img src="https://img.shields.io/badge/Website-38BDF8?style=for-the-badge&logo=world&logoColor=white" alt="Website" />
+</a>
+
+    </td>
+  </tr>
 </table>
 
 </div>
 
 ---
 
-## 💬 Connect With Me
+## 📝 Random Dev Quote
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Yeshenyue11)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Yeshenyue11)
-[![Website](https://img.shields.io/badge/Website-38BDF8?style=for-the-badge&logo=website&logoColor=white)](https://Yeshenyue11.github.io)
-
-</div>
-
----
-
-## 📝 Recent Blog Posts
-
-<div align="center">
-
-<!-- 如果你有博客，可以在这里显示最新文章 -->
-<a href="https://github.com/Yeshenyue11">
-    <img src="https://github-readme-stats.vercel.app/api/pin?username=Yeshenyue11&repo=blog&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9" />
-</a>
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&animation=grow&quoteFormat=true&quote=Code+is+like+humor.+When+you+have+to+explain+it%2C+it%E2%80%99s+bad.&author=Cory+House)
 
 </div>
 
@@ -197,47 +269,25 @@ const yeshenyue11 = {
 
 <div align="center">
 
-### 🎨 Created with ❤️ by Yeshenyue11
+<!-- 3D Snake Animation Preview -->
+<img src="https://raw.githubusercontent.com/Yeshenyue11/Yeshenyue11/output/github-contribution-grid-snake.svg" alt="Snake Animation" onerror="this.style.display='none'" />
+
+<!-- Footer Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,11,6&height=100&section=footer" alt="Footer" />
+
+### ⭐ If you like my work, consider giving it a star!
+
+ Made with ❤️ by <a href="https://github.com/Yeshenyue11">Yeshenyue11</a>
 
 </div>
 
----
+<!--
+░██████╗██████╗░█████╗░██████╗░███████╗
+██╔════╝██╔══██╗██╔══██╗██╔══██╗██╔════╝
+╚█████╗░██████╔╝███████║██║░░╚═╝█████╗░░
+░╚═══██╗██╔══██╗██╔══██║██║░░██╗██╔══╝░░
+██████╔╝██║░░██║██║░░██║╚█████╔╝███████╗
+╚═════╝░╚═╝░░╚═╝╚═╝░░╚═╝░╚════╝░╚══════╝
 
-<div align="center">
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow&quoteFormat=true&quote=Code+is+poetry.+Debugging+is+art.&author=Yeshenyue11)
-
-</div>
-
----
-
-<div align="center">
-
-## 🌐 Support My Work
-
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/Yeshenyue11)
-[![Ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/Yeshenyue11)
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Yeshenyue11/Yeshenyue11/output/github-contribution-grid-snake.svg" alt="Snake Animation">
-
-</div>
-
----
-
-<div align="center">
-
-**⭐ Star this repo if it helped you!**
-
-</div>
-
----
-
-<!-- 隐藏的蛇形动画配置文件，需要在仓库根目录创建 .github/workflows/ 目录和相应配置 -->
-<!-- 查看 README-SNAKE.md 获取完整配置 -->
-
+Thanks for visiting my profile! 🚀
+-->
