@@ -122,15 +122,17 @@ const yeshenyue11 = {
 
 <div align="center">
 
-<!-- 你可以在这里添加你的项目 -->
-<a href="https://github.com/Yeshenyue11/uu">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yeshenyue11&repo=uu&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9" />
+<a href="https://github.com/Yeshenyue11/gemini">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yeshenyue11&repo=gemini&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9" />
 </a>
 
-<!-- 添加更多项目卡片 -->
-<!-- <a href="https://github.com/Yeshenyue11/your-repo">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yeshenyue11&repo=your-repo&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9" />
-</a> -->
+<a href="https://github.com/Yeshenyue11/subscription-manager">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yeshenyue11&repo=subscription-manager&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9" />
+</a>
+
+<a href="https://github.com/Yeshenyue11/hello">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yeshenyue11&repo=hello&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9" />
+</a>
 
 </div>
 
